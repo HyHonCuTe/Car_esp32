@@ -73,3 +73,13 @@ Car_esp32/
  - file main.dart # Các cấu hình kèm theo flutter
 ```
 
+---
+
+## 🚀 Cách sử dụng
+
+1. Chọn loại xe bạn muốn chạy và nạp code tương ứng vào ESP32.
+2. Cài ứng dụng Flutter từ thư mục `flutter_app/` lên điện thoại.
+3. Kết nối điện thoại với ESP32 qua Wi-Fi/Bluetooth.
+4. Điều khiển và trải nghiệm.
+
+---
