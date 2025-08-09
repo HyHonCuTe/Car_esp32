@@ -76,7 +76,7 @@ Car_esp32/
 ## 🚀 Cách sử dụng
 
 1. Chọn loại xe bạn muốn chạy và nạp code tương ứng vào ESP32.
-2. Cài ứng dụng Flutter từ thư mục `flutter_app/` lên điện thoại.
+2. Cài ứng dụng Flutter từ code
 3. Kết nối điện thoại với ESP32 qua Wi-Fi/Bluetooth.
 4. Điều khiển và trải nghiệm.
 
