@@ -73,10 +73,3 @@ Car_esp32/
  - file main.dart # Các cấu hình kèm theo flutter
 ```
 
----
-
-
----
-
-Nếu bạn muốn, mình có thể **thêm bảng so sánh tính năng 3 loại xe** vào README này để nhìn vào là phân biệt được ngay.
-Bạn có muốn mình làm bảng đó luôn không?
