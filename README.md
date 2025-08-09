@@ -1,10 +1,8 @@
----
 
 # 🚗 Car\_ESP32 – Bộ sưu tập xe robot điều khiển qua Flutter
 
 **Car\_ESP32** là dự án gồm **3 loại xe robot** sử dụng **ESP32** làm bộ điều khiển trung tâm, mỗi loại có khả năng di chuyển và tính năng riêng biệt. Tất cả đều hỗ trợ điều khiển thủ công qua ứng dụng **Flutter** kết nối trực tiếp đến ESP32.
 
----
 
 ## 📌 Danh sách các loại xe
 
