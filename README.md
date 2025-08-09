@@ -1,6 +1,3 @@
-Ok, nếu dự án **Car\_ESP32** của bạn có **3 loại xe** khác nhau thì README nên mô tả rõ từng loại, nhưng vẫn giữ bố cục gọn gàng, chuyên nghiệp để người đọc hiểu ngay sự khác biệt.
-Mình viết lại như sau:
-
 ---
 
 # 🚗 Car\_ESP32 – Bộ sưu tập xe robot điều khiển qua Flutter
@@ -78,12 +75,6 @@ Car_esp32/
 
 ---
 
-## 🚀 Cách sử dụng
-
-1. Chọn loại xe bạn muốn chạy và nạp code tương ứng vào ESP32.
-2. Cài ứng dụng Flutter từ thư mục `flutter_app/` lên điện thoại.
-3. Kết nối điện thoại với ESP32 qua Wi-Fi/Bluetooth.
-4. Điều khiển và trải nghiệm.
 
 ---
 
